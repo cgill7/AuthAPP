@@ -9,3 +9,6 @@ An authentication android app using Firebase
  <img width="324" alt="Screenshot 2021-07-26 at 8 22 42 PM" src="https://user-images.githubusercontent.com/58187215/127374436-3b86121f-fb12-4eef-b836-c2499db29329.png">
  <img width="318" alt="Screenshot 2021-07-26 at 8 23 10 PM" src="https://user-images.githubusercontent.com/58187215/127374933-f4a7dc80-7711-45b1-8712-98f859ea8409.png">
  <img width="1199" alt="Screenshot 2021-07-26 at 8 29 15 PM" src="https://user-images.githubusercontent.com/58187215/127375022-2fadc462-e080-4860-9d5e-6d9798876df3.png">
+ <br >
+ ## References
+ https://firebase.google.com/docs/auth
